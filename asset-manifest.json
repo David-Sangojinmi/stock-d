@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/David-Sangojinmi/stock-d/static/css/main.00c46bf3.chunk.css",
+    "main.js": "/David-Sangojinmi/stock-d/static/js/main.714646fe.chunk.js",
+    "main.js.map": "/David-Sangojinmi/stock-d/static/js/main.714646fe.chunk.js.map",
+    "runtime-main.js": "/David-Sangojinmi/stock-d/static/js/runtime-main.dcd53c91.js",
+    "runtime-main.js.map": "/David-Sangojinmi/stock-d/static/js/runtime-main.dcd53c91.js.map",
+    "static/js/2.2ca8d8da.chunk.js": "/David-Sangojinmi/stock-d/static/js/2.2ca8d8da.chunk.js",
+    "static/js/2.2ca8d8da.chunk.js.map": "/David-Sangojinmi/stock-d/static/js/2.2ca8d8da.chunk.js.map",
+    "index.html": "/David-Sangojinmi/stock-d/index.html",
+    "precache-manifest.05bcf5094ccbd18f500c45632ed9fbd8.js": "/David-Sangojinmi/stock-d/precache-manifest.05bcf5094ccbd18f500c45632ed9fbd8.js",
+    "service-worker.js": "/David-Sangojinmi/stock-d/service-worker.js",
+    "static/css/main.00c46bf3.chunk.css.map": "/David-Sangojinmi/stock-d/static/css/main.00c46bf3.chunk.css.map",
+    "static/js/2.2ca8d8da.chunk.js.LICENSE.txt": "/David-Sangojinmi/stock-d/static/js/2.2ca8d8da.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/David-Sangojinmi/stock-d/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.dcd53c91.js",
+    "static/js/2.2ca8d8da.chunk.js",
+    "static/css/main.00c46bf3.chunk.css",
+    "static/js/main.714646fe.chunk.js"
+  ]
+}
